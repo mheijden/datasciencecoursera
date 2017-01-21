@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## The startup screen suggested that I should be: Including Plots 
-## No, I think not, that is too complicated for now
+## No, I think I will not, that is too complicated for now
 ## This is a markdown file
 
 ## to be precise, my first ever. 
