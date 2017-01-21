@@ -10,8 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## The startup screen suggested: Including Plots 
-## No, I think not, that is too complicated for now
 ## This is a markdown file
 
-## to be precise, my first ever. 
+to be precise, my first ever.
+
+The startup screen in Rstudio suggested that I should be: Including Plots. 
+
+No, I think I will not, that is too complicated for now.
