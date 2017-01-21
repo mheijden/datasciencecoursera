@@ -1,0 +1,12 @@
+---
+title: "ReadMe"
+author: "mheijden"
+date: "January 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Just to make sure, this is but a temp environment created for the course
